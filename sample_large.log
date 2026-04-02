@@ -1,0 +1,430 @@
+240326 080001 7715 DEBUG SessionManager: Heartbeat OK
+240326 080002 7642 INFO Kernel: Transaction committed successfully
+240326 080006 8669 WARN SessionManager: File /etc/passwd accessed by root
+240326 080006 6114 INFO SessionManager: User login successful (admin)
+240326 080011 108 WARN PaymentProcessor: Database query executed in 45ms
+240326 080015 1961 DEBUG FileSystem: Session token generated
+240326 080015 6506 INFO FileSystem: API endpoint /health check OK
+240326 080015 2249 INFO APIGateway: API endpoint /health check OK
+240326 080019 4457 INFO PaymentProcessor: User login successful (admin)
+240326 080024 2237 INFO DBService: File /etc/passwd accessed by root
+240326 080027 4285 INFO PaymentProcessor: User login successful (admin)
+240326 080028 9282 DEBUG APIGateway: User login successful (admin)
+240326 080031 1348 INFO SessionManager: User login successful (admin)
+240326 080034 3206 DEBUG Kernel: Heartbeat OK
+240326 080039 7047 INFO PaymentProcessor: Transaction committed successfully
+240326 080040 8183 INFO PaymentProcessor: Failed authentication attempt (invalid password)
+240326 080040 5154 INFO SessionManager: Heartbeat OK
+240326 080042 4377 ERROR AuthService: Connection timeout to upstream provider
+240326 080045 9009 INFO Kernel: File /etc/passwd accessed by root
+240326 080048 5294 WARN SessionManager: Background garbage collection finished
+240326 080048 2523 INFO Kernel: Transaction committed successfully
+240326 080048 7214 INFO AuthService: User logout
+240326 080052 3630 DEBUG PaymentProcessor: Transaction committed successfully
+240326 080052 3590 INFO AuthService: Heartbeat OK
+240326 080057 5126 DEBUG PaymentProcessor: User login successful (admin)
+240326 080100 3061 INFO FileSystem: File /etc/passwd accessed by root
+240326 080102 6874 INFO FileSystem: API endpoint /health check OK
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 080102 6037 DEBUG FileSystem: API endpoint /health check OK
+240326 080102 8398 INFO PaymentProcessor: Transaction committed successfully
+240326 080602 2417 INFO APIGateway: Failed authentication attempt (invalid password)
+240326 080602 9319 INFO APIGateway: User logout
+240326 080602 4112 INFO AuthService: User login successful (admin)
+240326 080606 6730 WARN DBService: API endpoint /health check OK
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 080606 1700 ERROR APIGateway: Connection timeout to upstream provider
+240326 080606 4684 INFO PaymentProcessor: Failed authentication attempt (invalid password)
+240326 080611 6226 DEBUG DBService: File /etc/passwd accessed by root
+240326 080616 4941 INFO DBService: Transaction committed successfully
+240326 080618 7857 INFO PaymentProcessor: User logout
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 080622 6723 INFO AuthService: File /etc/passwd accessed by root
+240326 080627 9309 INFO FileSystem: API endpoint /health check OK
+240326 080627 2913 INFO PaymentProcessor: User login successful (admin)
+240326 080631 6417 DEBUG SessionManager: Transaction committed successfully
+240326 080635 7001 ERROR DBService: Connection timeout to upstream provider
+240326 080637 7415 ERROR FileSystem: Connection timeout to upstream provider
+240326 080640 9077 DEBUG APIGateway: Cache miss for user profile
+240326 080640 9459 INFO APIGateway: Session token generated
+240326 080644 2297 DEBUG DBService: Database query executed in 45ms
+240326 080646 4951 WARN PaymentProcessor: Transaction committed successfully
+240326 080648 6125 WARN DBService: Background garbage collection finished
+240326 080648 6585 ERROR APIGateway: Connection timeout to upstream provider
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 080650 8212 INFO FileSystem: Session token generated
+240326 080650 2320 WARN AuthService: Heartbeat OK
+240326 080850 8628 WARN PaymentProcessor: Database query executed in 45ms
+240326 081250 4813 INFO DBService: Background garbage collection finished
+240326 081255 4013 DEBUG FileSystem: Heartbeat OK
+240326 081300 2849 INFO APIGateway: User logout
+240326 081303 4752 WARN SessionManager: Background garbage collection finished
+240326 081307 7266 INFO PaymentProcessor: Transaction committed successfully
+240326 081607 1603 INFO SessionManager: Background garbage collection finished
+240326 081609 6696 DEBUG APIGateway: API endpoint /health check OK
+240326 082109 3575 INFO SessionManager: Transaction committed successfully
+240326 082112 5171 INFO Kernel: Session token generated
+240326 090112 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 090114 7785 INFO APIGateway: Cache miss for user profile
+240326 090117 5280 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 090121 3154 WARN AuthService: User login successful (admin)
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 090321 7533 INFO FileSystem: Transaction committed successfully
+240326 090326 5202 INFO SessionManager: User logout
+240326 090328 4859 INFO DBService: Session token generated
+240326 090332 7885 INFO AuthService: Failed authentication attempt (invalid password)
+240326 090333 5644 DEBUG Kernel: Heartbeat OK
+240326 090334 7007 WARN AuthService: User logout
+240326 090337 7451 ERROR Kernel: Connection timeout to upstream provider
+240326 090837 9332 DEBUG Kernel: Database query executed in 45ms
+240326 090842 8809 INFO SessionManager: User logout
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 090844 3532 INFO APIGateway: User login successful (admin)
+240326 090847 6977 INFO FileSystem: Background garbage collection finished
+240326 090851 5336 DEBUG SessionManager: Transaction committed successfully
+240326 090853 1288 INFO FileSystem: Session token generated
+240326 090856 2307 INFO SessionManager: API endpoint /health check OK
+240326 090900 2846 DEBUG SessionManager: Session token generated
+240326 090905 3602 INFO Kernel: Failed authentication attempt (invalid password)
+240326 090905 7503 WARN Kernel: API endpoint /health check OK
+240326 091105 1098 INFO APIGateway: User login successful (admin)
+240326 091108 1938 DEBUG APIGateway: Background garbage collection finished
+240326 091308 4487 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 091309 4411 DEBUG APIGateway: Session token generated
+240326 091310 7807 INFO DBService: User login successful (admin)
+240326 091610 9732 ERROR DBService: Connection timeout to upstream provider
+240326 091610 5487 WARN PaymentProcessor: User login successful (admin)
+240326 091613 4738 INFO APIGateway: File /etc/passwd accessed by root
+240326 091613 6932 INFO PaymentProcessor: Heartbeat OK
+240326 091613 2950 INFO FileSystem: Background garbage collection finished
+240326 091615 8367 INFO DBService: Transaction committed successfully
+240326 091616 6679 INFO PaymentProcessor: API endpoint /health check OK
+240326 091616 9503 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 091616 4205 WARN DBService: Failed authentication attempt (invalid password)
+240326 091619 3955 INFO AuthService: Session token generated
+240326 091620 7865 WARN APIGateway: Failed authentication attempt (invalid password)
+240326 091620 7695 INFO PaymentProcessor: User login successful (admin)
+240326 091624 571 INFO FileSystem: Database query executed in 45ms
+240326 091924 6635 WARN DBService: User logout
+240326 091927 1112 INFO AuthService: Transaction committed successfully
+240326 091929 748 ERROR APIGateway: Connection timeout to upstream provider
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 091932 5531 WARN DBService: API endpoint /health check OK
+240326 091934 9918 INFO APIGateway: Session token generated
+240326 091938 3466 INFO Kernel: Cache miss for user profile
+240326 091943 4453 INFO PaymentProcessor: User login successful (admin)
+240326 091943 8282 INFO FileSystem: File /etc/passwd accessed by root
+240326 091944 7290 INFO Kernel: Session token generated
+240326 091944 6026 WARN Kernel: Background garbage collection finished
+240326 091948 8986 DEBUG APIGateway: Cache miss for user profile
+240326 091953 3524 INFO SessionManager: User login successful (admin)
+240326 091957 3147 DEBUG Kernel: Session token generated
+240326 092002 5409 INFO SessionManager: File /etc/passwd accessed by root
+240326 092002 6279 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 092006 3798 INFO FileSystem: Database query executed in 45ms
+240326 092010 5783 DEBUG DBService: User login successful (admin)
+240326 092014 6564 INFO SessionManager: File /etc/passwd accessed by root
+240326 092015 6365 INFO Kernel: API endpoint /health check OK
+240326 092020 8823 INFO AuthService: User login successful (admin)
+240326 092025 563 INFO DBService: Database query executed in 45ms
+240326 092029 7502 INFO Kernel: Database query executed in 45ms
+240326 092030 9815 WARN APIGateway: Failed authentication attempt (invalid password)
+240326 092030 2442 ERROR APIGateway: Connection timeout to upstream provider
+240326 092035 7054 WARN AuthService: User login successful (admin)
+240326 092038 7009 INFO PaymentProcessor: Failed authentication attempt (invalid password)
+240326 092041 9605 INFO AuthService: Failed authentication attempt (invalid password)
+240326 092041 9416 INFO APIGateway: Cache miss for user profile
+240326 092041 8587 WARN FileSystem: Database query executed in 45ms
+240326 092041 1676 INFO FileSystem: Transaction committed successfully
+240326 092044 6563 INFO SessionManager: Cache miss for user profile
+240326 092044 3095 WARN APIGateway: Failed authentication attempt (invalid password)
+240326 092044 6065 DEBUG AuthService: Background garbage collection finished
+240326 092046 5492 INFO Kernel: Cache miss for user profile
+240326 092047 3815 DEBUG DBService: Background garbage collection finished
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 092047 947 INFO DBService: Database query executed in 45ms
+240326 092050 7562 DEBUG SessionManager: File /etc/passwd accessed by root
+240326 092055 1750 WARN APIGateway: Background garbage collection finished
+240326 092100 8669 INFO Kernel: Background garbage collection finished
+240326 092100 4582 DEBUG APIGateway: Transaction committed successfully
+240326 092101 3583 WARN FileSystem: File /etc/passwd accessed by root
+240326 092104 1485 INFO SessionManager: Failed authentication attempt (invalid password)
+240326 092107 1936 INFO SessionManager: User login successful (admin)
+240326 092107 7855 INFO PaymentProcessor: File /etc/passwd accessed by root
+240326 092110 8402 INFO DBService: Cache miss for user profile
+240326 092111 7509 INFO FileSystem: Session token generated
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 092113 1452 DEBUG AuthService: Session token generated
+240326 092117 7865 WARN PaymentProcessor: Background garbage collection finished
+240326 092120 8602 INFO DBService: File /etc/passwd accessed by root
+240326 092124 6949 DEBUG AuthService: Failed authentication attempt (invalid password)
+240326 092129 6730 INFO PaymentProcessor: Background garbage collection finished
+240326 092134 2908 INFO APIGateway: Background garbage collection finished
+240326 092137 2782 WARN FileSystem: Heartbeat OK
+240326 101937 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 101942 9375 WARN AuthService: Background garbage collection finished
+240326 101947 8851 WARN AuthService: Failed authentication attempt (invalid password)
+240326 101948 2885 INFO AuthService: API endpoint /health check OK
+240326 101948 5935 INFO APIGateway: User login successful (admin)
+240326 101948 5639 INFO APIGateway: Cache miss for user profile
+240326 101948 6269 INFO SessionManager: Heartbeat OK
+240326 101949 4269 WARN APIGateway: Database query executed in 45ms
+240326 101954 9195 WARN Kernel: Database query executed in 45ms
+240326 101954 2679 INFO DBService: Cache miss for user profile
+240326 101957 724 INFO DBService: User login successful (admin)
+240326 101959 3339 DEBUG PaymentProcessor: Heartbeat OK
+240326 102001 7781 INFO PaymentProcessor: API endpoint /health check OK
+240326 110301 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 110302 7090 DEBUG PaymentProcessor: Transaction committed successfully
+240326 110305 7471 DEBUG DBService: Background garbage collection finished
+240326 110307 4835 DEBUG APIGateway: File /etc/passwd accessed by root
+240326 110311 3768 DEBUG PaymentProcessor: User logout
+240326 110315 9021 INFO Kernel: Heartbeat OK
+240326 110317 3932 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 110320 449 INFO APIGateway: Background garbage collection finished
+240326 110325 8287 DEBUG Kernel: API endpoint /health check OK
+
+240326 110327 7856 INFO PaymentProcessor: API endpoint /health check OK
+240326 110327 4010 WARN Kernel: User login successful (admin)
+240326 110327 8501 DEBUG FileSystem: Failed authentication attempt (invalid password)
+240326 110331 8176 INFO FileSystem: Background garbage collection finished
+240326 110336 2441 WARN DBService: User logout
+240326 110337 1597 DEBUG AuthService: User logout
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 110341 7941 INFO DBService: Background garbage collection finished
+240326 110346 8721 INFO FileSystem: Cache miss for user profile
+240326 110349 3312 INFO FileSystem: Background garbage collection finished
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 110350 3652 DEBUG DBService: User logout
+240326 110351 9180 INFO Kernel: Database query executed in 45ms
+240326 110351 3470 INFO SessionManager: Session token generated
+240326 110356 7217 WARN Kernel: File /etc/passwd accessed by root
+240326 110356 2789 INFO PaymentProcessor: API endpoint /health check OK
+240326 110356 1700 WARN PaymentProcessor: Cache miss for user profile
+240326 110401 4730 DEBUG PaymentProcessor: User login successful (admin)
+240326 110801 7508 DEBUG FileSystem: API endpoint /health check OK
+240326 110805 5838 WARN DBService: Session token generated
+240326 110809 8223 INFO APIGateway: Heartbeat OK
+240326 110814 1947 INFO Kernel: Database query executed in 45ms
+240326 110814 6860 INFO DBService: File /etc/passwd accessed by root
+240326 110818 658 INFO AuthService: Background garbage collection finished
+240326 110818 9914 INFO DBService: Failed authentication attempt (invalid password)
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 110823 716 INFO DBService: File /etc/passwd accessed by root
+240326 110828 4551 DEBUG SessionManager: Background garbage collection finished
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 110828 150 DEBUG DBService: User logout
+240326 110832 3490 INFO AuthService: User logout
+240326 110835 5128 INFO SessionManager: Database query executed in 45ms
+240326 110840 7197 WARN DBService: Transaction committed successfully
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 110843 9672 INFO SessionManager: Failed authentication attempt (invalid password)
+240326 110846 5603 INFO PaymentProcessor: File /etc/passwd accessed by root
+240326 110850 9924 WARN PaymentProcessor: Database query executed in 45ms
+240326 111250 8064 WARN APIGateway: User login successful (admin)
+240326 111252 6469 INFO Kernel: File /etc/passwd accessed by root
+240326 111255 7040 ERROR DBService: Connection timeout to upstream provider
+240326 111256 2115 INFO FileSystem: API endpoint /health check OK
+240326 111257 2648 INFO DBService: API endpoint /health check OK
+240326 111302 3061 INFO Kernel: User logout
+240326 111305 8263 DEBUG AuthService: Session token generated
+240326 115905 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 115906 5828 DEBUG SessionManager: User login successful (admin)
+240326 115908 4525 INFO FileSystem: Database query executed in 45ms
+240326 115910 3830 INFO SessionManager: User logout
+240326 115912 7914 DEBUG FileSystem: API endpoint /health check OK
+240326 115914 5418 INFO APIGateway: File /etc/passwd accessed by root
+240326 115916 7981 INFO AuthService: Failed authentication attempt (invalid password)
+240326 115920 2271 INFO PaymentProcessor: Failed authentication attempt (invalid password)
+240326 115920 1362 DEBUG AuthService: Heartbeat OK
+240326 115920 5964 INFO Kernel: API endpoint /health check OK
+240326 115923 7159 INFO Kernel: Transaction committed successfully
+240326 115923 5673 INFO FileSystem: Background garbage collection finished
+240326 115923 9780 INFO SessionManager: Transaction committed successfully
+240326 115926 4523 INFO DBService: File /etc/passwd accessed by root
+240326 115928 9918 INFO SessionManager: Database query executed in 45ms
+240326 115932 9192 ERROR APIGateway: Connection timeout to upstream provider
+240326 115937 5458 WARN SessionManager: File /etc/passwd accessed by root
+240326 115939 4909 DEBUG SessionManager: User login successful (admin)
+240326 115942 891 INFO APIGateway: Heartbeat OK
+240326 115947 6921 INFO Kernel: Failed authentication attempt (invalid password)
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 115951 1030 INFO Kernel: API endpoint /health check OK
+240326 115955 9380 INFO FileSystem: API endpoint /health check OK
+240326 115958 1152 INFO FileSystem: Database query executed in 45ms
+240326 115958 6950 DEBUG AuthService: Background garbage collection finished
+240326 120003 6162 INFO Kernel: Background garbage collection finished
+240326 120008 9480 INFO SessionManager: File /etc/passwd accessed by root
+240326 120013 8352 WARN FileSystem: File /etc/passwd accessed by root
+240326 120018 421 DEBUG SessionManager: Transaction committed successfully
+240326 120023 7873 INFO SessionManager: File /etc/passwd accessed by root
+240326 120023 7857 INFO AuthService: Cache miss for user profile
+240326 120024 1947 DEBUG AuthService: Heartbeat OK
+240326 120025 506 DEBUG FileSystem: User logout
+240326 120025 7120 INFO Kernel: Session token generated
+240326 120030 9951 WARN AuthService: Background garbage collection finished
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 120030 938 INFO FileSystem: API endpoint /health check OK
+240326 120034 6326 DEBUG APIGateway: Database query executed in 45ms
+240326 120037 5485 INFO PaymentProcessor: File /etc/passwd accessed by root
+240326 120042 378 INFO DBService: Failed authentication attempt (invalid password)
+
+240326 120046 8694 WARN APIGateway: User login successful (admin)
+240326 120046 8643 INFO DBService: File /etc/passwd accessed by root
+240326 120346 8946 DEBUG AuthService: API endpoint /health check OK
+240326 120348 8698 INFO PaymentProcessor: Database query executed in 45ms
+240326 120352 4795 INFO AuthService: Cache miss for user profile
+240326 120355 2542 ERROR APIGateway: Connection timeout to upstream provider
+240326 120355 6704 INFO SessionManager: Heartbeat OK
+240326 120355 2471 DEBUG SessionManager: Failed authentication attempt (invalid password)
+240326 124355 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 124357 9095 INFO AuthService: Transaction committed successfully
+240326 124401 7404 WARN AuthService: Background garbage collection finished
+240326 124406 6071 WARN SessionManager: API endpoint /health check OK
+240326 124409 2230 DEBUG DBService: User logout
+240326 124410 9551 INFO FileSystem: API endpoint /health check OK
+240326 124910 7173 INFO DBService: User logout
+240326 124910 3778 INFO DBService: Cache miss for user profile
+240326 124913 2515 INFO SessionManager: Cache miss for user profile
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 124915 9663 WARN AuthService: Heartbeat OK
+240326 124915 2807 INFO PaymentProcessor: Database query executed in 45ms
+240326 124916 646 WARN APIGateway: File /etc/passwd accessed by root
+240326 124921 3620 DEBUG DBService: Cache miss for user profile
+240326 124925 4895 INFO SessionManager: File /etc/passwd accessed by root
+240326 124925 8366 INFO SessionManager: Heartbeat OK
+240326 124926 9730 ERROR FileSystem: Connection timeout to upstream provider
+240326 124931 1586 INFO AuthService: User login successful (admin)
+240326 124934 9510 INFO Kernel: Background garbage collection finished
+240326 124938 3021 INFO FileSystem: Transaction committed successfully
+240326 124940 5127 WARN DBService: Session token generated
+240326 125340 9890 DEBUG PaymentProcessor: Background garbage collection finished
+240326 125342 8899 WARN Kernel: User login successful (admin)
+240326 125343 369 INFO Kernel: User logout
+240326 125347 1758 INFO FileSystem: Database query executed in 45ms
+240326 125348 6180 INFO DBService: Cache miss for user profile
+240326 125353 787 DEBUG AuthService: Heartbeat OK
+240326 125354 4062 INFO DBService: Failed authentication attempt (invalid password)
+240326 125359 3231 WARN FileSystem: Background garbage collection finished
+240326 125402 4596 INFO Kernel: File /etc/passwd accessed by root
+240326 125402 5995 WARN DBService: Database query executed in 45ms
+240326 125402 7737 WARN Kernel: User logout
+240326 125407 7488 WARN PaymentProcessor: Transaction committed successfully
+240326 125412 5125 INFO PaymentProcessor: User login successful (admin)
+240326 125412 8153 DEBUG SessionManager: File /etc/passwd accessed by root
+240326 125413 661 DEBUG APIGateway: Session token generated
+240326 125416 5339 INFO Kernel: User login successful (admin)
+240326 125420 5462 INFO FileSystem: User login successful (admin)
+240326 125420 9706 INFO SessionManager: File /etc/passwd accessed by root
+240326 125421 9189 WARN DBService: Heartbeat OK
+240326 125422 6988 INFO APIGateway: Transaction committed successfully
+240326 125424 6996 INFO Kernel: Failed authentication attempt (invalid password)
+240326 125424 2982 DEBUG SessionManager: Transaction committed successfully
+240326 125425 1390 WARN AuthService: File /etc/passwd accessed by root
+240326 125427 4558 INFO SessionManager: User logout
+240326 125428 1486 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 125429 7063 DEBUG APIGateway: Heartbeat OK
+240326 125432 7051 INFO Kernel: User login successful (admin)
+240326 125436 7654 DEBUG FileSystem: Cache miss for user profile
+240326 125439 5523 WARN Kernel: File /etc/passwd accessed by root
+240326 125440 2856 INFO FileSystem: Database query executed in 45ms
+240326 125444 5698 WARN AuthService: Failed authentication attempt (invalid password)
+240326 125444 7076 DEBUG Kernel: Database query executed in 45ms
+240326 125446 4478 INFO DBService: User login successful (admin)
+240326 125450 6110 INFO Kernel: Cache miss for user profile
+240326 125450 5736 WARN APIGateway: Session token generated
+240326 125650 5797 DEBUG DBService: File /etc/passwd accessed by root
+
+240326 125654 1729 INFO AuthService: User logout
+240326 125656 5221 INFO DBService: Session token generated
+240326 125657 8033 WARN SessionManager: User login successful (admin)
+240326 125657 3103 WARN SessionManager: Transaction committed successfully
+240326 125658 3391 DEBUG SessionManager: File /etc/passwd accessed by root
+240326 125659 2614 INFO SessionManager: Database query executed in 45ms
+240326 125659 4867 INFO AuthService: File /etc/passwd accessed by root
+240326 125659 9311 INFO AuthService: User logout
+240326 125700 2997 INFO SessionManager: Session token generated
+240326 125704 9167 INFO PaymentProcessor: File /etc/passwd accessed by root
+240326 125709 7872 DEBUG DBService: Session token generated
+240326 125712 5943 ERROR AuthService: Connection timeout to upstream provider
+240326 125716 531 INFO AuthService: Session token generated
+240326 125719 1395 DEBUG FileSystem: Cache miss for user profile
+240326 125719 8996 DEBUG Kernel: Failed authentication attempt (invalid password)
+garbage data... 0xDEADBEEF segmentation fault core dumped
+240326 125722 5368 INFO APIGateway: Transaction committed successfully
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 125722 7396 INFO FileSystem: API endpoint /health check OK
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 125723 5022 INFO AuthService: File /etc/passwd accessed by root
+240326 125723 5474 WARN SessionManager: User login successful (admin)
+240326 125724 4610 INFO SessionManager: Database query executed in 45ms
+240326 125724 3309 WARN DBService: Failed authentication attempt (invalid password)
+240326 135424 0001 WARN System: Unexpected recovery after service unresponsiveness
+
+240326 135427 413 ERROR PaymentProcessor: Connection timeout to upstream provider
+240326 135427 2412 DEBUG DBService: API endpoint /health check OK
+240326 135429 4224 INFO AuthService: Database query executed in 45ms
+240326 135429 1540 WARN FileSystem: API endpoint /health check OK
+240326 135433 8314 DEBUG FileSystem: User login successful (admin)
+240326 135433 4395 INFO APIGateway: File /etc/passwd accessed by root
+240326 142333 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 142333 3344 INFO APIGateway: Session token generated
+240326 invalidtime 9999 ERROR Malformed line detected in input stream
+240326 142336 8422 WARN PaymentProcessor: Failed authentication attempt (invalid password)
+240326 142341 2175 INFO PaymentProcessor: User logout
+240326 142341 7631 INFO Kernel: Transaction committed successfully
+240326 142342 7690 INFO PaymentProcessor: Background garbage collection finished
+
+240326 142347 6524 DEBUG Kernel: Failed authentication attempt (invalid password)
+240326 142348 7515 INFO Kernel: Failed authentication attempt (invalid password)
+240326 142350 887 ERROR FileSystem: Connection timeout to upstream provider
+240326 142354 8732 DEBUG SessionManager: Cache miss for user profile
+240326 142355 4553 INFO APIGateway: Session token generated
+240326 142357 4028 INFO APIGateway: Database query executed in 45ms
+240326 142402 4665 INFO DBService: Database query executed in 45ms
+240326 142902 587 INFO DBService: Failed authentication attempt (invalid password)
+240326 142903 7125 INFO FileSystem: Heartbeat OK
+240326 142905 7840 INFO APIGateway: Heartbeat OK
+240326 142907 706 INFO SessionManager: Session token generated
+240326 142910 1043 ERROR AuthService: Connection timeout to upstream provider
+240326 142910 4181 DEBUG PaymentProcessor: Heartbeat OK
+240326 142915 8777 INFO SessionManager: API endpoint /health check OK
+240326 142917 574 INFO DBService: Database query executed in 45ms
+240326 142919 1217 INFO DBService: User login successful (admin)
+240326 144919 0001 WARN System: Unexpected recovery after service unresponsiveness
+240326 144924 4659 INFO Kernel: User login successful (admin)
+240326 145124 5169 WARN AuthService: Transaction committed successfully
+240326 145124 5511 INFO Kernel: Background garbage collection finished
+240326 145125 7039 INFO FileSystem: File /etc/passwd accessed by root
+240326 145325 4057 INFO AuthService: User logout
+240326 145329 662 INFO FileSystem: Transaction committed successfully
+240326 145334 2559 INFO SessionManager: User logout
+240326 145338 7860 INFO FileSystem: Heartbeat OK
+240326 145343 9423 INFO PaymentProcessor: API endpoint /health check OK
+240326 145347 1038 INFO Kernel: Cache miss for user profile
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 145348 6431 DEBUG Kernel: Session token generated
+240326 145348 7769 INFO PaymentProcessor: Transaction committed successfully
+240326 145349 2597 INFO DBService: Transaction committed successfully
+240326 145349 5930 INFO DBService: Background garbage collection finished
+240326 145352 9671 INFO Kernel: Failed authentication attempt (invalid password)
+240326 145354 2314 WARN APIGateway: Heartbeat OK
+240326 145356 3437 INFO DBService: User login successful (admin)
+240326 145401 3613 DEBUG PaymentProcessor: API endpoint /health check OK
+240326 145404 4278 INFO PaymentProcessor: User login successful (admin)
+240326 145408 7926 INFO DBService: Failed authentication attempt (invalid password)
+240326 145412 3861 INFO DBService: User logout
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+[Missing Timestamp] Kernel panic - not syncing: VFS: Unable to mount root fs
+240326 145413 754 INFO APIGateway: User login successful (admin)
+240326 145416 2627 INFO SessionManager: Background garbage collection finished
+240326 145421 9458 ERROR Kernel: Connection timeout to upstream provider
+240326 145421 280 INFO AuthService: Transaction committed successfully
+240326 145421 896 WARN DBService: Heartbeat OK
+240326 145422 5777 WARN SessionManager: File /etc/passwd accessed by root
+240326 145422 2165 INFO Kernel: Session token generated
+240326 145422 9739 INFO PaymentProcessor: File /etc/passwd accessed by root
+240326 145425 6978 INFO FileSystem: User login successful (admin)
+240326 145425 9058 WARN SessionManager: Background garbage collection finished
+240326 145430 777 WARN FileSystem: Session token generated

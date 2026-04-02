@@ -1,0 +1,11 @@
+240326 203000 [INFO] System started normally
+240326 203100 [INFO] Background service 1 initialized
+240326 203617 [INFO] Last regular check completed
+# The following line is malformed to test error handling
+invalid line without timestamp
+240326 204500 [INFO] Service restarted (Gap of 523 seconds)
+240326 204600 [INFO] Processing normal traffic
+240326 205000 [WARN] CPU usage high
+# This introduces a HIGH severity gap (> 5 * threshold of 300)
+240326 212000 [INFO] Backup initiated
+240326 212100 [INFO] Backup successful
