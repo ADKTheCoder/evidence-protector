@@ -1,5 +1,6 @@
 <div align="center">
-```
+
+<pre>
 ███████╗██╗   ██╗██╗██████╗ ███████╗███╗   ██╗ ██████╗███████╗
 ██╔════╝██║   ██║██║██╔══██╗██╔════╝████╗  ██║██╔════╝██╔════╝
 █████╗  ██║   ██║██║██║  ██║█████╗  ██╔██╗ ██║██║     █████╗  
@@ -7,7 +8,7 @@
 ███████╗ ╚████╔╝ ██║██████╔╝███████╗██║ ╚████║╚██████╗███████╗
 ╚══════╝  ╚═══╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
                     P R O T E C T O R
-```
+</pre>
 
 **Detect tampering. Preserve evidence. Trust your logs.**
 
@@ -18,8 +19,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 </div>
-
----
 
 ## What is Evidence Protector?
 
