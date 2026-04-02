@@ -1,0 +1,3 @@
+# Evidence Protector uses Python standard library only.
+# No external packages required.
+# Python 3.6+
